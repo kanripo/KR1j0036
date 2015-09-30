@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 龍龕手鑑
-#+DATE: 2015-09-23 09:41:13
+#+DATE: 2015-09-11 23:42:49.395437
+#+PROPERTY: ID KR1j0036
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB05n0582-000新修龍龕手鑑-序.
 <pb:KR1j0036_SBCK_000-1a>¶
 ¶
 夢溪筆談云幽州僧行均集佛書中字為切韻訓詁凡十六萬字¶
@@ -60,4 +64,3 @@
 隨部復用四聲列之又撰五音圖式附¶
 扵後庶力省功倍垂益扵無窮者矣¶
 時統和十五年丁酉七月一日癸亥序¶
-
